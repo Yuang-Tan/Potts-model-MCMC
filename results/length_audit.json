@@ -1,0 +1,14 @@
+{
+  "scope": "Notebook Markdown cells and background Markdown only; code cells and generated outputs excluded.",
+  "english_prose_words": {
+    "notebook": 1026,
+    "background": 1769,
+    "combined": 2795
+  },
+  "raw_markdown_whitespace_tokens_including_math_and_references": {
+    "notebook": 1129,
+    "background": 1849,
+    "combined": 2978
+  },
+  "note": "These are text counts, not a PRL equivalent-word calculation including figure dimensions."
+}
