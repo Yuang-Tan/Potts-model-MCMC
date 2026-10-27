@@ -1,0 +1,21 @@
+{
+  "temperature_min": 0.6,
+  "temperature_max": 2.4,
+  "temperature_step": 0.07499999999999996,
+  "seed": 20261027,
+  "repetitions": 8,
+  "burn_sweeps": 500,
+  "samples": 500,
+  "sample_interval_sweeps": 1,
+  "long_burn_sweeps": 2000,
+  "J": 1,
+  "k_B": 1,
+  "periodic_boundaries": true,
+  "field_values": [
+    0,
+    0.08,
+    0.2
+  ],
+  "critical_temperature_exact": 1.4924592916077255,
+  "estimated_elapsed_seconds": 53.6
+}
